@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfBabelJS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfBabelSt",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
