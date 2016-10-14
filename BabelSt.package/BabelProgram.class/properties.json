@@ -1,0 +1,16 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sourceType",
+		"body",
+		"directives" ],
+	"name" : "BabelProgram",
+	"pools" : [
+		 ],
+	"super" : "BabelNode",
+	"type" : "normal" }

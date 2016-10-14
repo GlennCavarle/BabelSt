@@ -1,0 +1,15 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GlennCavarle 3/25/2016 13:27",
+	"instvars" : [
+		"name",
+		"typeAnnotation" ],
+	"name" : "BabelIdentifier",
+	"pools" : [
+		 ],
+	"super" : "BabelObject",
+	"type" : "normal" }

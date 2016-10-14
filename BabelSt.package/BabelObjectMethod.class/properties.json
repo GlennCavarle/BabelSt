@@ -1,0 +1,14 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"kind" ],
+	"name" : "BabelObjectMethod",
+	"pools" : [
+		 ],
+	"super" : "BabelObjectMember",
+	"type" : "normal" }

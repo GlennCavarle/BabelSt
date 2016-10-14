@@ -1,0 +1,17 @@
+{
+	"category" : "BabelSt-Converter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"currentClass",
+		"currentProperty",
+		"currentMethod",
+		"currentReceiver" ],
+	"name" : "BabelDummyContext",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

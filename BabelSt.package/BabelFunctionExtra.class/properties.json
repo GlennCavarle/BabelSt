@@ -1,0 +1,14 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parenthesized" ],
+	"name" : "BabelFunctionExtra",
+	"pools" : [
+		 ],
+	"super" : "BabelObject",
+	"type" : "normal" }

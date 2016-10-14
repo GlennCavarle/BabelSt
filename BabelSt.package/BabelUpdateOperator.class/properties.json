@@ -1,0 +1,14 @@
+{
+	"category" : "BabelSt-Operator",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BabelUpdateOperator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

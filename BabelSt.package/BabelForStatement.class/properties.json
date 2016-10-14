@@ -1,0 +1,17 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"init",
+		"test",
+		"update",
+		"body" ],
+	"name" : "BabelForStatement",
+	"pools" : [
+		 ],
+	"super" : "BabelStatement",
+	"type" : "normal" }

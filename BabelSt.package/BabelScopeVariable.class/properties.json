@@ -1,0 +1,15 @@
+{
+	"category" : "BabelSt-Converter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"type" ],
+	"name" : "BabelScopeVariable",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

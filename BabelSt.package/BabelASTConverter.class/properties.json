@@ -1,0 +1,15 @@
+{
+	"category" : "BabelSt-Converter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stack",
+		"currentScope" ],
+	"name" : "BabelASTConverter",
+	"pools" : [
+		 ],
+	"super" : "BabelASTVisitor",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"argument" ],
+	"name" : "BabelRestProperty",
+	"pools" : [
+		 ],
+	"super" : "BabelNode",
+	"type" : "normal" }

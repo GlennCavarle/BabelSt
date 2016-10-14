@@ -1,0 +1,14 @@
+{
+	"category" : "BabelSt-StdClass",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"date" ],
+	"name" : "BabelStdDate",
+	"pools" : [
+		 ],
+	"super" : "BabelStdClass",
+	"type" : "normal" }

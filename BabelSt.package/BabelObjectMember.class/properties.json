@@ -1,0 +1,17 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"key",
+		"computed",
+		"value",
+		"decorators" ],
+	"name" : "BabelObjectMember",
+	"pools" : [
+		 ],
+	"super" : "BabelNode",
+	"type" : "normal" }

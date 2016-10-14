@@ -1,0 +1,15 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"callee",
+		"arguments" ],
+	"name" : "BabelCallExpression",
+	"pools" : [
+		 ],
+	"super" : "BabelExpression",
+	"type" : "normal" }

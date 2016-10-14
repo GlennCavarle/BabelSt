@@ -1,0 +1,14 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"label" ],
+	"name" : "BabelBreakStatement",
+	"pools" : [
+		 ],
+	"super" : "BabelStatement",
+	"type" : "normal" }

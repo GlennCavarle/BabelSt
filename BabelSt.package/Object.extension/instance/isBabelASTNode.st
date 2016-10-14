@@ -1,0 +1,3 @@
+*BabelSt
+isBabelASTNode
+	^ false

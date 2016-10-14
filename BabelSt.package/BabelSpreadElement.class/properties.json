@@ -1,0 +1,14 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"argument" ],
+	"name" : "BabelSpreadElement",
+	"pools" : [
+		 ],
+	"super" : "BabelNode",
+	"type" : "normal" }

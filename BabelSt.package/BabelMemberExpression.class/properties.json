@@ -1,0 +1,16 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"object",
+		"property",
+		"computed" ],
+	"name" : "BabelMemberExpression",
+	"pools" : [
+		 ],
+	"super" : "BabelExpression",
+	"type" : "normal" }

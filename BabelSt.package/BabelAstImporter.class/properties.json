@@ -1,0 +1,14 @@
+{
+	"category" : "BabelSt-Importer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BabelAstImporter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

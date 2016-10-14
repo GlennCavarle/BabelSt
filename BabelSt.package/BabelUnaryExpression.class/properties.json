@@ -1,0 +1,16 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"operator",
+		"prefix",
+		"argument" ],
+	"name" : "BabelUnaryExpression",
+	"pools" : [
+		 ],
+	"super" : "BabelExpression",
+	"type" : "normal" }

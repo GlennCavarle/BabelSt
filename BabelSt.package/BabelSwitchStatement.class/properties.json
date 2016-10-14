@@ -1,0 +1,15 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"discriminant",
+		"cases" ],
+	"name" : "BabelSwitchStatement",
+	"pools" : [
+		 ],
+	"super" : "BabelStatement",
+	"type" : "normal" }

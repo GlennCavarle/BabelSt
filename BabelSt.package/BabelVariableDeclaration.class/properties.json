@@ -1,0 +1,15 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"declarations",
+		"kind" ],
+	"name" : "BabelVariableDeclaration",
+	"pools" : [
+		 ],
+	"super" : "BabelDeclaration",
+	"type" : "normal" }

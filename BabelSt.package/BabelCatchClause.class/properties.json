@@ -1,0 +1,15 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GlennCavarle 3/25/2016 14:26",
+	"instvars" : [
+		"param",
+		"body" ],
+	"name" : "BabelCatchClause",
+	"pools" : [
+		 ],
+	"super" : "BabelNode",
+	"type" : "normal" }

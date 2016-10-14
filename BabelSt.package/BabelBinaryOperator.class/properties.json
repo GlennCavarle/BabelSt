@@ -1,0 +1,14 @@
+{
+	"category" : "BabelSt-Operator",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BabelBinaryOperator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

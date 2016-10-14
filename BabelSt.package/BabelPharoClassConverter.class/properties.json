@@ -1,0 +1,16 @@
+{
+	"category" : "BabelSt-Converter",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TBabelPharoClassVisitor classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BabelPharoClassConverter",
+	"pools" : [
+		 ],
+	"super" : "BabelPharoASTConverter",
+	"traitcomposition" : "TBabelPharoClassVisitor",
+	"type" : "normal" }

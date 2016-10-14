@@ -1,0 +1,14 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BabelNewExpression",
+	"pools" : [
+		 ],
+	"super" : "BabelCallExpression",
+	"type" : "normal" }

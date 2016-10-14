@@ -1,0 +1,20 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"params",
+		"body",
+		"generator",
+		"async",
+		"expression",
+		"extra" ],
+	"name" : "BabelFunctionExpression",
+	"pools" : [
+		 ],
+	"super" : "BabelExpression",
+	"type" : "normal" }

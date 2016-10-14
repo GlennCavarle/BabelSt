@@ -1,0 +1,15 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"left",
+		"right" ],
+	"name" : "BabelAssignmentPattern",
+	"pools" : [
+		 ],
+	"super" : "BabelPattern",
+	"type" : "normal" }

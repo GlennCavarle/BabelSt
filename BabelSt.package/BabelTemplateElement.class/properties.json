@@ -1,0 +1,15 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tail",
+		"value" ],
+	"name" : "BabelTemplateElement",
+	"pools" : [
+		 ],
+	"super" : "BabelNode",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "BabelSt-Tool",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BabelCommand",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

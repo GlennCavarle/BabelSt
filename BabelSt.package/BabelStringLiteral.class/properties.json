@@ -1,0 +1,14 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GlennCavarle 3/25/2016 14:24",
+	"instvars" : [
+		"value" ],
+	"name" : "BabelStringLiteral",
+	"pools" : [
+		 ],
+	"super" : "BabelLiteral",
+	"type" : "normal" }

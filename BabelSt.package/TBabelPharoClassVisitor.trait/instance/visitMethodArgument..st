@@ -1,0 +1,3 @@
+visiting-class
+visitMethodArgument: aSymbol
+	

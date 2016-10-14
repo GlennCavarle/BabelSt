@@ -1,0 +1,15 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GlennCavarle 3/25/2016 13:26",
+	"instvars" : [
+		"line",
+		"column" ],
+	"name" : "BabelPosition",
+	"pools" : [
+		 ],
+	"super" : "BabelObject",
+	"type" : "normal" }

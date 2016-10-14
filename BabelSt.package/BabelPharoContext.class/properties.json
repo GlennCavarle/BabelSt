@@ -1,0 +1,14 @@
+{
+	"category" : "BabelSt-Converter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BabelPharoContext",
+	"pools" : [
+		 ],
+	"super" : "BabelDummyContext",
+	"type" : "normal" }

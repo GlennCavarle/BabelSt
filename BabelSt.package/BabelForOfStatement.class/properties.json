@@ -1,0 +1,14 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BabelForOfStatement",
+	"pools" : [
+		 ],
+	"super" : "BabelForInStatement",
+	"type" : "normal" }

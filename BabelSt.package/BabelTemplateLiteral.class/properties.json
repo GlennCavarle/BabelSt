@@ -1,0 +1,15 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"quasis",
+		"expressions" ],
+	"name" : "BabelTemplateLiteral",
+	"pools" : [
+		 ],
+	"super" : "BabelExpression",
+	"type" : "normal" }

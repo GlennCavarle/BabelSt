@@ -1,0 +1,14 @@
+{
+	"category" : "BabelSt-Tool",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BabelInstaller",
+	"pools" : [
+		 ],
+	"super" : "BabelCommand",
+	"type" : "normal" }

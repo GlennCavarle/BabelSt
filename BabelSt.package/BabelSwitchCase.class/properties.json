@@ -1,0 +1,15 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"test",
+		"consequent" ],
+	"name" : "BabelSwitchCase",
+	"pools" : [
+		 ],
+	"super" : "BabelNode",
+	"type" : "normal" }

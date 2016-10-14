@@ -1,0 +1,14 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"argument" ],
+	"name" : "BabelRestElement",
+	"pools" : [
+		 ],
+	"super" : "BabelPattern",
+	"type" : "normal" }

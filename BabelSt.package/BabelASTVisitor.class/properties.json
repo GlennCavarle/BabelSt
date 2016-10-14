@@ -1,0 +1,16 @@
+{
+	"category" : "BabelSt-Visitor",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TBabelASTVisitor classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BabelASTVisitor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "TBabelASTVisitor",
+	"type" : "normal" }

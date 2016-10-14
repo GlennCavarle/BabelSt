@@ -1,0 +1,16 @@
+{
+	"category" : "BabelSt-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"specifiers",
+		"source",
+		"importKind" ],
+	"name" : "BabelImportDeclaration",
+	"pools" : [
+		 ],
+	"super" : "BabelModuleDeclaration",
+	"type" : "normal" }
