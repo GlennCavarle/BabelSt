@@ -1,0 +1,14 @@
+{
+	"category" : "BabelSt-Test-Converter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BabelAbstractTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
