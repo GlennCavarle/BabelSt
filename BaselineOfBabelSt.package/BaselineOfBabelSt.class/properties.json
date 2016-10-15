@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfBabelSt",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfBabelSt",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
