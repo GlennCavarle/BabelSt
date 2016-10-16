@@ -12,7 +12,7 @@ baseline: spec
 					versionString: #'stable';
 					repository: 'http://www.squeaksource.com/OSProcess' ].
 		spec 
-			package: #BabelJS with: [
+			package: #BabelSt with: [
 				spec requires: #('OSProcess' 'JSON' ). ];
-			package: #'BabelJS-Test' with: [
+			package: #'BabelSt-Test' with: [
 				spec requires: #(#BabelJS ). ]. ].
