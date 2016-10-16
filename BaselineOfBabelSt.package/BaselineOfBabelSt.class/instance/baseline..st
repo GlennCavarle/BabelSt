@@ -15,4 +15,4 @@ baseline: spec
 			package: #BabelSt with: [
 				spec requires: #('OSProcess' 'JSON' ). ];
 			package: #'BabelSt-Test' with: [
-				spec requires: #(#BabelJS ). ]. ].
+				spec requires: #(#BabelSt). ]. ].
