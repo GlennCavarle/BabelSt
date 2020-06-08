@@ -1,4 +1,7 @@
 {
-	"category" : "BabelSt-Visitor",
 	"commentStamp" : "",
-	"name" : "TBabelASTVisitor" }
+	"classinstvars" : [ ],
+	"category" : "BabelSt-Visitor",
+	"instvars" : [ ],
+	"name" : "TBabelASTVisitor"
+}

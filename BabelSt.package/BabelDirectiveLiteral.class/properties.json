@@ -1,14 +1,11 @@
 {
-	"category" : "BabelSt-AST",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "GlennCavarle 3/25/2016 14:25",
-	"instvars" : [
-		 ],
-	"name" : "BabelDirectiveLiteral",
-	"pools" : [
-		 ],
 	"super" : "BabelStringLiteral",
-	"type" : "normal" }
+	"category" : "BabelSt-AST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BabelDirectiveLiteral",
+	"type" : "normal"
+}

@@ -1,14 +1,11 @@
 {
-	"category" : "BabelSt-AST",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "BabelExpression",
-	"pools" : [
-		 ],
 	"super" : "BabelNode",
-	"type" : "normal" }
+	"category" : "BabelSt-AST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BabelExpression",
+	"type" : "normal"
+}

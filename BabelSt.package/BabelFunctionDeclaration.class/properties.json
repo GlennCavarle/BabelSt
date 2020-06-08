@@ -1,18 +1,17 @@
 {
-	"category" : "BabelSt-AST",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "BabelDeclaration",
+	"category" : "BabelSt-AST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"id",
 		"params",
 		"body",
 		"generator",
-		"async" ],
+		"async"
+	],
 	"name" : "BabelFunctionDeclaration",
-	"pools" : [
-		 ],
-	"super" : "BabelDeclaration",
-	"type" : "normal" }
+	"type" : "normal"
+}

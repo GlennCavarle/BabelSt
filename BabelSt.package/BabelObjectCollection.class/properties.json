@@ -1,14 +1,11 @@
 {
-	"category" : "BabelSt-AST",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "BabelObjectCollection",
-	"pools" : [
-		 ],
 	"super" : "OrderedCollection",
-	"type" : "normal" }
+	"category" : "BabelSt-AST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BabelObjectCollection",
+	"type" : "normal"
+}

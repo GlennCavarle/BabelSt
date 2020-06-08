@@ -1,15 +1,14 @@
 {
-	"category" : "BabelSt-AST",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "BabelExpression",
+	"category" : "BabelSt-AST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"meta",
-		"property" ],
+		"property"
+	],
 	"name" : "BabelMetaProperty",
-	"pools" : [
-		 ],
-	"super" : "BabelExpression",
-	"type" : "normal" }
+	"type" : "normal"
+}

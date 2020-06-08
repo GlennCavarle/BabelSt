@@ -1,3 +1,3 @@
 testing
-isBabelObject
+isBabelASTNode
 	^ true

@@ -1,14 +1,11 @@
 {
-	"category" : "BabelSt-StdClass",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "BabelStdMath",
-	"pools" : [
-		 ],
 	"super" : "BabelStdClass",
-	"type" : "normal" }
+	"category" : "BabelSt-StdClass",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BabelStdMath",
+	"type" : "normal"
+}

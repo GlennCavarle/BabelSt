@@ -1,15 +1,14 @@
 {
-	"category" : "BabelSt-AST",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "BabelNode",
+	"category" : "BabelSt-AST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"raw",
-		"cooked" ],
+		"cooked"
+	],
 	"name" : "BabelTemplateElementValue",
-	"pools" : [
-		 ],
-	"super" : "BabelNode",
-	"type" : "normal" }
+	"type" : "normal"
+}

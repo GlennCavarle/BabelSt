@@ -1,16 +1,15 @@
 {
-	"category" : "BabelSt-AST",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "BabelExpression",
+	"category" : "BabelSt-AST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"operator",
 		"argument",
-		"prefix" ],
+		"prefix"
+	],
 	"name" : "BabelUpdateExpression",
-	"pools" : [
-		 ],
-	"super" : "BabelExpression",
-	"type" : "normal" }
+	"type" : "normal"
+}

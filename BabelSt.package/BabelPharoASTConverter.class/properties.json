@@ -1,15 +1,14 @@
 {
-	"category" : "BabelSt-Converter",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "RBProgramNodeVisitor",
+	"category" : "BabelSt-Converter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"stack",
-		"context" ],
+		"context"
+	],
 	"name" : "BabelPharoASTConverter",
-	"pools" : [
-		 ],
-	"super" : "RBProgramNodeVisitor",
-	"type" : "normal" }
+	"type" : "normal"
+}

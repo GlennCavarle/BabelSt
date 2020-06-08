@@ -1,5 +1,5 @@
 as yet unclassified
 importFromJsonString: aJsonString
 	| jsonObject |
-	jsonObject := Json readFrom: aJsonString readStream.
+	jsonObject := NeoJSONReader fromString: aJsonString.
 	^ self importFromJsonObject: jsonObject

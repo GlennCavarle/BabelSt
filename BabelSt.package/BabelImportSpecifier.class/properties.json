@@ -1,14 +1,13 @@
 {
-	"category" : "BabelSt-AST",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"imported" ],
-	"name" : "BabelImportSpecifier",
-	"pools" : [
-		 ],
 	"super" : "BabelModuleSpecifier",
-	"type" : "normal" }
+	"category" : "BabelSt-AST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"imported"
+	],
+	"name" : "BabelImportSpecifier",
+	"type" : "normal"
+}

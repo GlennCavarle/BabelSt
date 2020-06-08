@@ -1,14 +1,13 @@
 {
-	"category" : "BabelSt-AST",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "GlennCavarle 3/25/2016 13:25",
-	"instvars" : [
-		"body" ],
-	"name" : "BabelClassBody",
-	"pools" : [
-		 ],
 	"super" : "BabelNode",
-	"type" : "normal" }
+	"category" : "BabelSt-AST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"body"
+	],
+	"name" : "BabelClassBody",
+	"type" : "normal"
+}

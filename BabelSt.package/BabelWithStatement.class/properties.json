@@ -1,15 +1,14 @@
 {
-	"category" : "BabelSt-AST",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "BabelStatement",
+	"category" : "BabelSt-AST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"object",
-		"body" ],
+		"body"
+	],
 	"name" : "BabelWithStatement",
-	"pools" : [
-		 ],
-	"super" : "BabelStatement",
-	"type" : "normal" }
+	"type" : "normal"
+}

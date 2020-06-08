@@ -1,14 +1,13 @@
 {
-	"category" : "BabelSt-AST",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"parenthesized" ],
-	"name" : "BabelFunctionExtra",
-	"pools" : [
-		 ],
 	"super" : "BabelObject",
-	"type" : "normal" }
+	"category" : "BabelSt-AST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parenthesized"
+	],
+	"name" : "BabelFunctionExtra",
+	"type" : "normal"
+}

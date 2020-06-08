@@ -1,14 +1,11 @@
 {
-	"category" : "BabelSt-Tool",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "BabelInterpreter",
-	"pools" : [
-		 ],
 	"super" : "BabelCompiler",
-	"type" : "normal" }
+	"category" : "BabelSt-Tool",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BabelInterpreter",
+	"type" : "normal"
+}

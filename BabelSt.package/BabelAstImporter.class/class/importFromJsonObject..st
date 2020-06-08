@@ -1,7 +1,7 @@
 as yet unclassified
 importFromJsonObject: aJsonObject
 	| babelAstNode |
-	babelAstNode := (self classPrefix , aJsonObject type) asClass new.
+	babelAstNode := (self classPrefix , (aJsonObject at:#type)) asClass new.
 	aJsonObject keysAndValuesDo: [ :k :v | 
 			| val |
 			val := self convertValue: v.

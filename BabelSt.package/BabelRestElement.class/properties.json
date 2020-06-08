@@ -1,14 +1,13 @@
 {
-	"category" : "BabelSt-AST",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"argument" ],
-	"name" : "BabelRestElement",
-	"pools" : [
-		 ],
 	"super" : "BabelPattern",
-	"type" : "normal" }
+	"category" : "BabelSt-AST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"argument"
+	],
+	"name" : "BabelRestElement",
+	"type" : "normal"
+}

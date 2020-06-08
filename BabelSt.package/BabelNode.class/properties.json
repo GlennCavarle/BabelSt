@@ -1,15 +1,14 @@
 {
+	"commentStamp" : "GlennCavarle 6/5/2020 19:34",
+	"super" : "BabelObject",
 	"category" : "BabelSt-AST",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
-	"commentStamp" : "GlennCavarle 3/25/2016 13:26",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"loc",
-		"comments" ],
+		"comments"
+	],
 	"name" : "BabelNode",
-	"pools" : [
-		 ],
-	"super" : "BabelObject",
-	"type" : "normal" }
+	"type" : "normal"
+}

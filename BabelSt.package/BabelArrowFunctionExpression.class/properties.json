@@ -1,10 +1,10 @@
 {
-	"category" : "BabelSt-AST",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "BabelExpression",
+	"category" : "BabelSt-AST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"id",
 		"params",
@@ -12,9 +12,8 @@
 		"generator",
 		"async",
 		"expression",
-		"extra" ],
+		"extra"
+	],
 	"name" : "BabelArrowFunctionExpression",
-	"pools" : [
-		 ],
-	"super" : "BabelExpression",
-	"type" : "normal" }
+	"type" : "normal"
+}

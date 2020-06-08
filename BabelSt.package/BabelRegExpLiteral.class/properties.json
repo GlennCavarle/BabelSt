@@ -1,15 +1,14 @@
 {
-	"category" : "BabelSt-AST",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "GlennCavarle 3/25/2016 13:29",
+	"super" : "BabelLiteral",
+	"category" : "BabelSt-AST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"pattern",
-		"flag" ],
+		"flag"
+	],
 	"name" : "BabelRegExpLiteral",
-	"pools" : [
-		 ],
-	"super" : "BabelLiteral",
-	"type" : "normal" }
+	"type" : "normal"
+}

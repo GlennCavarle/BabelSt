@@ -1,15 +1,14 @@
 {
-	"category" : "BabelSt-AST",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "BabelObject",
+	"category" : "BabelSt-AST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"id",
-		"typeParameters" ],
+		"typeParameters"
+	],
 	"name" : "BabelGenericTypeAnnotation",
-	"pools" : [
-		 ],
-	"super" : "BabelObject",
-	"type" : "normal" }
+	"type" : "normal"
+}

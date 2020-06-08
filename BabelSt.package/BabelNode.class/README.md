@@ -1,4 +1,4 @@
-https://github.com/babel/babel/blob/master/doc/ast/spec.md#node-objects
+https://github.com/babel/babel/blob/master/packages/babel-parser/ast/spec.md
 
 interface Node {
   type: string;
