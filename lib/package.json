@@ -1,0 +1,22 @@
+{
+  "name": "babel-st",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "dependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/generator": "^7.10.2",
+    "@babel/parser": "^7.10.2",
+    "@babel/plugin-proposal-class-properties": "^7.10.1",
+    "@babel/plugin-proposal-decorators": "^7.10.1",
+    "@babel/preset-typescript": "^7.10.1",
+    "commander": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cli": "node src/main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
