@@ -1,3 +1,0 @@
-visiting-node
-visitNode: aNode
-	

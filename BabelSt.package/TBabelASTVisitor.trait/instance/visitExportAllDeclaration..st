@@ -1,3 +1,0 @@
-visiting-declaration
-visitExportAllDeclaration: aNode
-	self visitModuleDeclaration: aNode

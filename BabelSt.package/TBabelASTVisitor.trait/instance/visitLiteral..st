@@ -1,3 +1,0 @@
-visiting-literal
-visitLiteral: aNode
-	

@@ -1,3 +1,0 @@
-visiting-location
-visitSourceLocation: aNode
-	

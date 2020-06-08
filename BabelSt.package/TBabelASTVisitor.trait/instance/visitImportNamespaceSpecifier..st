@@ -1,3 +1,0 @@
-visiting-specifier
-visitImportNamespaceSpecifier: aNode
-	self visitModuleSpecifier: aNode

@@ -1,3 +1,0 @@
-visiting-class
-visitClassVariable: aSlot
-	

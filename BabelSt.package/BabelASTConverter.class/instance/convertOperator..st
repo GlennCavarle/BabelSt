@@ -1,3 +1,0 @@
-converting
-convertOperator: anOperator
-	^ anOperator
